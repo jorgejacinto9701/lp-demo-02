@@ -7,5 +7,9 @@
 <body>
 <h1>Cibertec Sede Norte</h1>
 <h2>Jorge Jacinto</h2>
+
+
+<marquee>Git es lo máximo</marquee>
+
 </body>
 </html>
